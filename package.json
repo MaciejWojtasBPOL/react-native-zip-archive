@@ -1,5 +1,5 @@
 {
-  "name": "react-native-zip-archive",
+  "name": "@maciejwojtas/react-native-zip-archive",
   "version": "5.0.5",
   "description": "A little wrapper on ZipArchive for react-native",
   "main": "index.js",
